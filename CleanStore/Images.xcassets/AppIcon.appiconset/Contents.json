@@ -49,6 +49,12 @@
       "scale" : "3x"
     },
     {
+      "size" : "167x167",
+      "idiom" : "iphone",
+      "filename" : "Icon83.5x83.5.png",
+      "scale" : "2x"
+    },
+    {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
       "filename" : "Icon1024x1024.png",
